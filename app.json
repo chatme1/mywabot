@@ -7,7 +7,7 @@
 
   "env": {
     "BOT_NUMBER": {
-      "description": "94788185692",
+      "description": "Put the number here.",
       "required": true
     },  
 
